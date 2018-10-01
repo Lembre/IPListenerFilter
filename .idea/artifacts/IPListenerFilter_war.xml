@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IPListenerFilter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IPListenerFilter.war">
+      <element id="artifact" artifact-name="IPListenerFilter:war exploded" />
+    </root>
+  </artifact>
+</component>
